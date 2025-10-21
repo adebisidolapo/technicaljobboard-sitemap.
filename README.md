@@ -1,1 +1,1 @@
-# technicaljobboard-sitemap.
+technicaljobboard-sitemap
